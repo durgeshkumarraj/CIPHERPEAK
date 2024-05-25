@@ -1,6 +1,5 @@
 # 🚀 CipherPeak Internship Projects
 
-![Owner Avatar](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 
 Welcome to the CipherPeak Internship repository! This repository contains the projects completed during my 4-week virtual internship at CipherPeak. Each project showcases different skills and technologies learned and applied throughout the internship.
 
